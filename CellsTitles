@@ -1,0 +1,14 @@
+{
+
+  "DailyChal":
+  [
+    {"DayNum":"Sunday October 18th, 2020", "MeditationTitle":"True Riches"},
+
+    {"DayNum":"Monday October 19th, 2020","MeditationTitle":"Overcoming the Trickery of Evil"},
+
+    {"DayNum":"Tuesday October 20th, 2020", "MeditationTitle":"Peace on Earth?"},
+  
+  {"DayNum":"Wednesday October 21st, 2020", "MeditationTitle":"Interpreting Our Present Time"}
+ ],
+  "Status":"OK"
+}
